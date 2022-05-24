@@ -18,6 +18,7 @@ Business Implication resulting from this study can be found in the pdf file.
 From the research question `How to find lever from customer transaction behaviour and purchasing history to improve profitability?`
 
 Customer Segmentation based on Spending Profile is used to generate tailored marketing approach
+
 Customer Segmentation based on Buying Pattern is used as input to Association Rule Algorithm
 
 Market Basket Analysis is conducted to determine key driver to increase profit
