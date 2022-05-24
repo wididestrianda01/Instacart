@@ -14,6 +14,29 @@ My data:  https://www.kaggle.com/c/instacart-market-basket-analysis
 ## Methodology
 How to find lever from customer transaction behaviour and purchasing history to improve profitability?
 
-Customer Segmentation
-Based on Spending Profile is used to generate tailored marketing approach
-Based on Buying Pattern is used as input to Association Rule Algorithm and Market Basket Analysis to determine key driver to increase profit
+Customer Segmentation based on Spending Profile is used to generate tailored marketing approach
+Customer Segmentation based on Buying Pattern is used as input to Association Rule Algorithm
+
+Market Basket Analysis is conducted to determine key driver to increase profit
+
+### Customer Segmentation based on Spending Profile
+
+By using RFM Model
+RFM (recency, frequency and monetary) model is a behavior-based model used to analyze the behavior of a customer by measuring when people buy, how often they buy and how much they buy. Segmentation is obtained using K-Means Clustering.
+
+
+### Customer Segmentation based on Buying Pattern
+By combining clustering & association rules, the information obtained will be more detailed, and avoid the possibility of rules that are not caught or overshadowed by other rules because they are a minority. Maybe there are association rules that is common for certain groups of people, but not for majority of people.
+
+### Market Basket Analysis
+Market Basket Analysis is conducted using the buying pattern clsuter.
+Association rule is performed using 3 algorithm: apriori, FP-Growth, and ECLAT.
+
+## Conclusion
+* There are 4 Cluster Customer
+  * Loyal Customer
+  * Hibernating
+  * Big Spender
+  * Promising
+
+* There are 251 assocation rules generated from customer buying pattern.
