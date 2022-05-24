@@ -33,7 +33,7 @@ RFM (recency, frequency and monetary) model is a behavior-based model used to an
 By combining clustering & association rules, the information obtained will be more detailed, and avoid the possibility of rules that are not caught or overshadowed by other rules because they are a minority. Maybe there are association rules that is common for certain groups of people, but not for majority of people.
 
 ### Market Basket Analysis
-Market Basket Analysis is conducted using the buying pattern clsuter.
+Market Basket Analysis is conducted using the buying pattern cluster.
 Association rule is performed using 3 algorithm: apriori, FP-Growth, and ECLAT.
 
 ## Conclusion
