@@ -9,6 +9,5 @@ With the large customer base, the company collects data of the users’ transact
 The dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
 
 Data originally comes from https://www.instacart.com/datasets/grocery-shopping-2017
-
 My data:  https://www.kaggle.com/c/instacart-market-basket-analysis
 
