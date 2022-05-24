@@ -15,7 +15,7 @@ My data:  https://www.kaggle.com/c/instacart-market-basket-analysis
 Business Implication resulting from this study can be found in the pdf file.
 
 ## Methodology
-From the research question `How to find lever from customer transaction behaviour and purchasing history to improve profitability?`
+From the research question **How to find lever from customer transaction behaviour and purchasing history to improve profitability?**
 
 Customer Segmentation based on Spending Profile is used to generate tailored marketing approach
 
