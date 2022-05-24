@@ -11,6 +11,8 @@ The dataset contains a sample of over 3 million grocery orders from more than 20
 Data originally comes from https://www.instacart.com/datasets/grocery-shopping-2017
 My data:  https://www.kaggle.com/c/instacart-market-basket-analysis
 
+Business Implication resulting from this study can be found in the pdf file.
+
 ## Methodology
 How to find lever from customer transaction behaviour and purchasing history to improve profitability?
 
