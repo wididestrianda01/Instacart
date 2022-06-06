@@ -26,6 +26,7 @@ Market Basket Analysis is conducted to determine key driver to increase profit
 ### Customer Segmentation based on Spending Profile
 
 By using RFM Model
+
 RFM (recency, frequency and monetary) model is a behavior-based model used to analyze the behavior of a customer by measuring when people buy, how often they buy and how much they buy. Segmentation is obtained using K-Means Clustering.
 
 
